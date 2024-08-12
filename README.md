@@ -1,9 +1,11 @@
 # FPV-ROBOT-CAR
 First-Person View (FPV) robot car powered by the Xiao ESP32S3 Sense microcontroller. The project combines the power of ESP32S3's AI capabilities with real-time video streaming, enabling a fully immersive FPV experience.
 
-[Hackster ](https://www.hackster.io/tech_nickk/fpv-robot-car-with-xiao-esp32s3-sense-a3dd8a).
+[OPEN THE PROJECT IN HACKSTER.io ](https://www.hackster.io/tech_nickk/fpv-robot-car-with-xiao-esp32s3-sense-a3dd8a).
 
 Just upload the code then copy the IP address from you serial monitor and paste it to your browser and enjoy the FPV experience. Ensure you are connected to the "robotcar" network. The password is "robotcar", you can modify it in the code as you like.
+
+
 
 ![FPV Robot Car](images/car.png.jpg)
 
@@ -36,7 +38,11 @@ To get started with this project, you’ll need the following:
 1. A Xiao ESP32S3 Sense and the components listed above.
 2. Arduino IDE with the ESP32 core installed (libraries are included by default).
 
+3. 
+
 ![FPV Robot Car](images/car2.png.jpg)
+
+
 
 ### Future Potential
 
